@@ -7,11 +7,11 @@ En este repositorio se presenta una aplicación realizada en Kivy, su paquetizac
 
 Este proyecto demuestra:
 
-✅ Paquetización completa de una app Kivy en Android usando Buildozer.
-✅ Implementación de métricas de interacción (logs, eventos, duración de sesión).
-✅ Uso correcto de repositorio GitHub con estructura ordenada.
-✅ Documentación clara (README profesional + PDF incluido).
-✅ Registro y reflexión del uso de Inteligencia Artificial.
+- ✅ Paquetización completa de una app Kivy en Android usando Buildozer.
+- ✅ Implementación de métricas de interacción (logs, eventos, duración de sesión).
+- ✅ Uso correcto de repositorio GitHub con estructura ordenada.
+- ✅ Documentación clara (README profesional + PDF incluido).
+- ✅ Registro y reflexión del uso de Inteligencia Artificial.
 
 # 🚀 2. Aplicación: Descripción General
 
@@ -87,5 +87,5 @@ Este proyecto cumple con los objetivos principales de la evaluación: se desarro
 
 # 🙌 7. Autor
 
-Juan Cornejo
-Estudiante de la carrera Técnico Universitario en Informática (4to Semestre).
+- Juan Cornejo
+- Estudiante de la carrera Técnico Universitario en Informática (4to Semestre).
