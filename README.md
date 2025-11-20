@@ -82,7 +82,10 @@ Para instalar la APK en Android se deben de seguir los siguientes pasos:
 # 📷 6. Capturas del Proyecto
 
 En esta captura se observa la aplicación desde un celular android.
-<img src="img/CapturaContador.jpg" width="280">
+
+<p align="left">
+  <img src="img/CapturaContador.jpg" width="280">
+</p>
 
 # 🧾 7. Conclusiones
 
