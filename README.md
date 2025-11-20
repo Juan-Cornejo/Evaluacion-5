@@ -1,7 +1,7 @@
 ## 📱 Evaluación Nº5 — Aplicación Kivy Contador + Paquetización Android (APK) y Métricas
 
-Proyecto desarrollado para la asignatura Desarrollo Móvil.
-En este repositorio se presenta una aplicación realizada en Kivy, su paquetización en APK mediante Buildozer y la implementación de métricas básicas de uso.
+- Proyecto desarrollado para la asignatura Desarrollo Móvil.
+- En este repositorio se presenta una aplicación realizada en Kivy, su paquetización en APK mediante Buildozer y la implementación de métricas básicas de uso.
 
 # 🧠 1. Objetivos de la Evaluación
 
@@ -66,11 +66,13 @@ Se implementaron métricas básicas, incluyendo:
 - Cálculo de duración
 
 ✔ Archivos generados
-El proyecto genera automáticamente logs como:
+
+- El proyecto genera automáticamente logs como:
 
 - metrics.log
 - metrics.json
-  Estos archivos están incluidos en el repositorio según lo solicitado.
+
+- Estos archivos están incluidos en el repositorio según lo solicitado.
 
 # 🔨 5. Instalación y Ejecución
 
