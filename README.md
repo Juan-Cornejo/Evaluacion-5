@@ -46,10 +46,6 @@ La aplicación desarrollada es un proyecto simple en Kivy que incluye:
    - buildozer -v android debug
 6. Obtención del APK desde /bin/.
 
-# 📱 APK Disponible
-
-➡️ Descargar APK: (https://github.com/Juan-Cornejo/Evaluacion-5/releases/download/1.0/evaluacion5.apk)
-
 # 📊 4. Parte 2 – Implementación de Métricas
 
 Se implementaron métricas básicas, incluyendo:
@@ -78,16 +74,17 @@ Se implementaron métricas básicas, incluyendo:
 
 Para instalar la APK en Android se deben de seguir los siguientes pasos:
 
-1. Abrir GitHub desde el celular y descargar el archivo desde Releases.
+1. Abrir GitHub desde el celular y descargar la APK desde la pestaña Releases.
 2. Habilitar "Instalar apps desconocidas".
 3. Instalar normalmente.
 4. Ejecutar aplicación.
 
-# 🧾 6. Conclusiones
+# 📷 6. Capturas del Proyecto
+
+En esta captura se observa la aplicación desde un celular android.
+
+![Pantalla principal](img/CapturaContador.jpg)
+
+# 🧾 7. Conclusiones
 
 Este proyecto cumple con los objetivos principales de la evaluación: se desarrolló una aplicación funcional en Kivy, se implementaron métricas básicas de uso y se realizó exitosamente la paquetización a un archivo APK instalable en Android. Además, se organizó el repositorio siguiendo buenas prácticas, incluyendo código, APK, logs y documentación. El resultado es una aplicación simple pero completa, correctamente documentada y totalmente funcional para los fines de la asignatura.
-
-# 🙌 7. Autor
-
-- Juan Cornejo
-- Estudiante de la carrera Técnico Universitario en Informática (4to Semestre).
