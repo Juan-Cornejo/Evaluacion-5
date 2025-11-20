@@ -1,4 +1,27 @@
+# Buildozer cache/build folders
+.buildozer/
+.buildozer/*
+
+# Python virtual environments
+venv/
+env/
 kivy_venv/
+buildozerenv/
+
+# Python cache
 __pycache__/
-.pytest_cache/
 *.pyc
+*.pyo
+
+# APK and build outputs
+*.apk
+*.aab
+bin/
+*.zip
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
